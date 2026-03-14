@@ -5,7 +5,7 @@ Application Streamlit de prédiction et analyse des retards aériens aux États-
 ## Application en ligne
 > https://flight-delay-app-xrr9auhhzwalgp66xvwabt.streamlit.app/
 
-## 📊 Dataset
+## Dataset
 - **Source :** US Bureau of Transportation Statistics
 - **Couverture :** 50 000 vols · 18 compagnies · 2019–2023
 
